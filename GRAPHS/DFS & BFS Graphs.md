@@ -263,3 +263,8 @@ int main() {
 DFS: 0 1 2 3 4
 BFS: 0 1 2 3 4
 ```
+<center>
+    
+<img width="1536" height="1024" alt="3D4F709D-559B-46C7-986B-D4D7E324744B" src="https://github.com/user-attachments/assets/06846d25-a6b8-423e-81b6-76ad95eb85d3" />
+
+</center>
